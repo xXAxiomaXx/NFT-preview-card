@@ -22,8 +22,8 @@ body {
 
 .layer {
   position: absolute;
-  bottom: 500px;
-  left: 810px;
+  bottom: 0px;
+  left: 0px;
   border-radius: 10px;
   width: 305px;
   height: 302px;
