@@ -23,10 +23,10 @@ body {
 .layer {
   position: absolute;
   bottom: 320px;
-  left: 580px;
+  left: 600px;
   border-radius: 10px;
   width: 305px;
-  height: 302px;
+  height: 305px;
   opacity: 0.5;
   background: #06fffb;
   display: flex;
